@@ -1,0 +1,14 @@
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\bin\Debug\netcoreapp3.1\CSharpProteinTranslator.exe
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\bin\Debug\netcoreapp3.1\CSharpProteinTranslator.deps.json
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\bin\Debug\netcoreapp3.1\CSharpProteinTranslator.runtimeconfig.json
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\bin\Debug\netcoreapp3.1\CSharpProteinTranslator.runtimeconfig.dev.json
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\bin\Debug\netcoreapp3.1\CSharpProteinTranslator.dll
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\bin\Debug\netcoreapp3.1\CSharpProteinTranslator.pdb
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.csproj.AssemblyReference.cache
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.AssemblyInfoInputs.cache
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.AssemblyInfo.cs
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.dll
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.pdb
+C:\Users\Michelle\Documents\VSapps\CSharpProteinTranslator\CSharpProteinTranslator\obj\Debug\netcoreapp3.1\CSharpProteinTranslator.genruntimeconfig.cache
